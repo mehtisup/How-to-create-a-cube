@@ -1,4 +1,8 @@
-
+.block {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 .cu {
     perspective:1000px;    
 }
